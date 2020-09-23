@@ -1,0 +1,82 @@
+{
+  "list_of_languages": [
+    {
+      "languages_id": "id",
+      "languages_name": "BAHASA INDONESIA"
+    },
+    {
+      "languages_id": "en",
+      "languages_name": "ENGLISH"
+    },
+    {
+      "languages_id": "zh",
+      "languages_name": "CHINESE"
+    }
+  ],
+  "list_of_interests": [
+    {
+      "interest_id": "music",
+      "interest_name": "Music"
+    },
+    {
+      "interest_id": "entertain",
+      "interest_name": "Entertain"
+    },
+    {
+      "interest_id": "travel",
+      "interest_name": "Travel"
+    },
+    {
+      "interest_id": "autos",
+      "interest_name": "Autos"
+    },
+    {
+      "interest_id": "gaming",
+      "interest_name": "Gaming"
+    },
+    {
+      "interest_id": "movies",
+      "interest_name": "Movies"
+    },
+    {
+      "interest_id": "news",
+      "interest_name": "News"
+    },
+    {
+      "interest_id": "comedy",
+      "interest_name": "Comedy"
+    },
+    {
+      "interest_id": "education",
+      "interest_name": "Education"
+    },
+    {
+      "interest_id": "tutorials",
+      "interest_name": "Tutorials"
+    },
+    {
+      "interest_id": "style",
+      "interest_name": "Style"
+    },
+    {
+      "interest_id": "sport",
+      "interest_name": "Sport"
+    },
+    {
+      "interest_id": "animals",
+      "interest_name": "Animals"
+    },
+    {
+      "interest_id": "hobby",
+      "interest_name": "Hobby"
+    },
+    {
+      "interest_id": "fashion",
+      "interest_name": "Fashion"
+    },
+    {
+      "interest_id": "technology",
+      "interest_name": "Technology"
+    }
+  ]
+}
